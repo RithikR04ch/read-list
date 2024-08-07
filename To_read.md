@@ -75,15 +75,15 @@
 - [ ] [A Visual Guide to useEffect - Cleanups | Alex Sidorenko](https://alexsidorenko.com/blog/useeffect-cleanups/)
 - [ ] [A Complete Guide to useEffect — Overreacted](https://overreacted.io/a-complete-guide-to-useeffect)
 - [ ] [📺 Understand the React Hook Flow | egghead.io](https://egghead.io/lessons/react-understand-the-react-hook-flow)
-- [x] [donavon: A flowchart that explains the new lifecycle of a Hooks component](https://github.com/donavon/hook-flow)
-- [x] https://overreacted.io/writing-resilient-components/#principle-2-always-be-ready-to-render
-- [x] https://overreacted.io/react-as-a-ui-runtime/
+- [ ] [donavon: A flowchart that explains the new lifecycle of a Hooks component](https://github.com/donavon/hook-flow)
+- [ ] https://overreacted.io/writing-resilient-components/#principle-2-always-be-ready-to-render
+- [ ] https://overreacted.io/react-as-a-ui-runtime/
 - [ ] [create your own React renderer](https://github.com/facebook/react/tree/master/packages/react-reconciler).
 - [ ] https://medium.com/react-in-depth/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-67f1014d0eb7
 - [ ] https://overreacted.io/why-do-hooks-rely-on-call-order/
 - [ ] https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e
 - [ ] https://www.robinwieruch.de/react-hooks-fetch-data/
-- [x] https://adamrackis.dev/blog/state-and-use-reducer
+- [ ] https://adamrackis.dev/blog/state-and-use-reducer
 - [ ] https://legacy.reactjs.org/docs/hooks-faq.html#is-it-safe-to-omit-functions-from-the-list-of-dependencies
 - [ ] https://react.dev/learn/thinking-in-react#step-3-identify-the-minimal-but-complete-representation-of-ui-state
 - [ ] https://overreacted.io/how-are-function-components-different-from-classes/
@@ -119,10 +119,10 @@
 
 #### Developer experience / softskills of developers
 - [ ] https://davidwalsh.name/conquering-impostor-syndrome
-- [ ] https://davidwalsh.name/impostor-syndrome
+- [x] https://davidwalsh.name/impostor-syndrome
 - [ ] http://sscce.org/
 - [ ] https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c
-- [x] https://overreacted.io/the-elements-of-ui-engineering/
+- [ ] https://overreacted.io/the-elements-of-ui-engineering/
 #### JS core
 - [ ] https://davidwalsh.name/essential-javascript-functions
 - [ ] https://kentcdodds.com/blog/the-merits-of-mocking
