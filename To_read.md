@@ -118,7 +118,7 @@
 - [ ] https://medium.com/sessionstack-blog/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e
 
 #### Developer experience / softskills of developers
-- [ ] https://davidwalsh.name/conquering-impostor-syndrome
+- [x] https://davidwalsh.name/conquering-impostor-syndrome
 - [x] https://davidwalsh.name/impostor-syndrome
 - [ ] http://sscce.org/
 - [ ] https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c
