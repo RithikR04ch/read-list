@@ -37,16 +37,16 @@
 - [ ] https://ryanflorence.com/topics/
 - [ ] https://zpao.com/posts/
 #### React Fundamental
-- [x] https://kentcdodds.com/blog/what-is-jsx
-- [x] https://legacy.reactjs.org/docs/reconciliation.html
+- [ ] https://kentcdodds.com/blog/what-is-jsx
+- [ ] https://legacy.reactjs.org/docs/reconciliation.html
 - [ ] [The slow part of the DOM is "layout"](https://www.youtube.com/watch?v=3bc71-xzoWA)
-- [x] https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render
-- [x] https://kentcdodds.com/blog/optimize-react-re-renders
+- [ ] https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render
+- [ ] https://kentcdodds.com/blog/optimize-react-re-renders
 - [ ] https://kentcdodds.com/blog/understanding-reacts-key-prop
 - [ ] [Custom Hooks in React: The Ultimate UI Abstraction Layer](https://www.youtube.com/watch?v=J-g9ZJha8FE)
 - [ ] [Using Composition in React to Avoid "Prop Drilling"](https://www.youtube.com/@ReactTraining)
 - [ ] https://kentcdodds.com/blog/prop-drilling
-- [x] https://legacy.reactjs.org/docs/render-props.html
+- [ ] https://legacy.reactjs.org/docs/render-props.html
 - [ ] https://egghead.io/courses/kent-s-blog-posts-as-screencasts-eefa540c
 - [ ] https://github.com/acdlite/react-fiber-architecture
 - [ ] https://blog.ag-grid.com/inside-fiber-an-in-depth-overview-of-the-new-reconciliation-algorithm-in-react/
@@ -56,7 +56,7 @@
 - [ ] [Fiber Principles: Contributing To Fiber](https://github.com/facebook/react/issues/7942)
 - [ ] [Why, What, and How of React Fiber with Dan Abramov and Andrew Clark](https://youtu.be/crM1iRVGpGQ?list=PLV5CVI1eNcJi8sor_aQ2AzOeQ3On3suOr)
 - [ ] [React events in depth w/ Kent C. Dodds, Ben Alpert, & Dan Abramov](https://youtu.be/dRo_egw7tBc?list=PLV5CVI1eNcJi8sor_aQ2AzOeQ3On3suOr)
-- [x] [Contributing to ReactJS](https://youtu.be/wUpPsEcGsg8?list=PLV5CVI1eNcJi8sor_aQ2AzOeQ3On3suOr)
+- [ ] [Contributing to ReactJS](https://youtu.be/wUpPsEcGsg8?list=PLV5CVI1eNcJi8sor_aQ2AzOeQ3On3suOr)
 - [ ] https://pomb.us/build-your-own-react/
 - [ ] https://medium.com/@ericchurchill/the-react-source-code-a-beginners-walkthrough-i-7240e86f3030
 - [ ] https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak
@@ -122,7 +122,7 @@
 - [x] https://davidwalsh.name/impostor-syndrome
 - [x] http://sscce.org/
 - [x] https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c
-- [ ] https://overreacted.io/the-elements-of-ui-engineering/
+- [x] https://overreacted.io/the-elements-of-ui-engineering/
 #### JS core
 - [ ] https://davidwalsh.name/essential-javascript-functions
 - [ ] https://kentcdodds.com/blog/the-merits-of-mocking
@@ -131,7 +131,7 @@
 - [ ] https://262.ecma-international.org/
 - [ ] JavaScript: The Good Parts.
 - [ ] https://github.com/domenic/promises-unwrapping
-- [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is
+- [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is
 - [ ] https://angularindepth.com/posts/1269/finding-fine-grained-reactive-programming
 #### Patterns
 - [ ] https://intoli.com/blog/python-slicing-in-javascript/
@@ -238,9 +238,9 @@ jake archibald
 - [ ] https://www.developerway.com/posts/how-to-write-performant-react-code
 
 #### Linting
-- [x] https://overreacted.io/writing-resilient-components/
-- [x] https://medium.com/@nikgraf/why-you-should-enforce-dangling-commas-for-multiline-statements-d034c98e36f8
-- [x] https://medium.com/free-code-camp/these-tools-will-help-you-write-clean-code-da4b5401f68e
+- [ ] https://overreacted.io/writing-resilient-components/
+- [ ] https://medium.com/@nikgraf/why-you-should-enforce-dangling-commas-for-multiline-statements-d034c98e36f8
+- [ ] https://medium.com/free-code-camp/these-tools-will-help-you-write-clean-code-da4b5401f68e
 
 #### Bundlers and stuff
 - [ ] https://www.freecodecamp.org/news/how-to-combine-webpack-4-and-babel-7-to-create-a-fantastic-react-app-845797e036ff
