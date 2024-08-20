@@ -120,7 +120,7 @@
 #### Developer experience / softskills of developers
 - [x] https://davidwalsh.name/conquering-impostor-syndrome
 - [x] https://davidwalsh.name/impostor-syndrome
-- [ ] http://sscce.org/
+- [x] http://sscce.org/
 - [ ] https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c
 - [ ] https://overreacted.io/the-elements-of-ui-engineering/
 #### JS core
