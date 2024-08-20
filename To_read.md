@@ -121,7 +121,7 @@
 - [x] https://davidwalsh.name/conquering-impostor-syndrome
 - [x] https://davidwalsh.name/impostor-syndrome
 - [x] http://sscce.org/
-- [ ] https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c
+- [x] https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c
 - [ ] https://overreacted.io/the-elements-of-ui-engineering/
 #### JS core
 - [ ] https://davidwalsh.name/essential-javascript-functions
