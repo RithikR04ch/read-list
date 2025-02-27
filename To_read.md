@@ -1,4 +1,4 @@
-- [ ] http://www.adequatelygood.com/
+- [x] http://www.adequatelygood.com/
 - [ ] https://medium.com/@zlatkov
 - [ ] https://ponyfoo.com/contributors/ponyfoo
 - [ ] https://blog.isquaredsoftware.com/
