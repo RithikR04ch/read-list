@@ -1,3 +1,9 @@
+#### Description
+## This Repo contains ReadList for learning Software development.
+## I am using this to track my progress and also get familiarised with git commands.
+## Forked from Jayesh-11/read-list 
+
+
 - [ ] http://www.adequatelygood.com/
 - [ ] https://medium.com/@zlatkov
 - [ ] https://ponyfoo.com/contributors/ponyfoo
